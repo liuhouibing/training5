@@ -2,4 +2,9 @@
 't5 more' 
 t5 more more  - remote change
 't5 more more - local change' 
+<<<<<<< HEAD
 't6 - local change' 
+=======
+
+t6 remote change
+>>>>>>> 94d46bd70206bfc1d213200f098f61cd161d1ef0
